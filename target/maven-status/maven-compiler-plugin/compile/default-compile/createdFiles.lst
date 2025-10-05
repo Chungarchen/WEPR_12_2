@@ -1,7 +1,0 @@
-com\mycompany\web12_2\resources\JakartaEE10Resource.class
-murach\data\DBUtil.class
-murach\business\User.class
-murach\admin\UsersServlet.class
-murach\data\UserDB.class
-com\mycompany\web12_2\JakartaRestConfiguration.class
-murach\data\ConnectionPool.class
