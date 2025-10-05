@@ -8,9 +8,9 @@ public class ConnectionPool {
     private static ConnectionPool pool = null;
     
     // Thông tin kết nối MySQL
-    private static final String URL = "jdbc:postgresql://dpg-d3gabe9r0fns73bepsa0-a.oregon-postgres.render.com:5432/sql2_db";
-    private static final String USER = "sql2_db_user";   // username Render cấp
-    private static final String PASSWORD = "tKphsIdvdegP8XNxXelJjzKOgAWVgaag"; // thay bằng password trong Render dashboard
+    private static final String URL = "jdbc:postgresql://dpg-d3h6s42li9vc73dsuck0-a.oregon-postgres.render.com:5432/werp";
+    private static final String USER = "werp_user";   // username Render cấp
+    private static final String PASSWORD = "fCkKHCr6Sk9ZhXS3FKKjlzcQ0NBemfVD"; // thay bằng password trong Render dashboard
 
 
     private ConnectionPool() {
